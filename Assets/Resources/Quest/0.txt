@@ -1,0 +1,20 @@
+{
+	"id":0,
+	"questName":"Monters Everywhere!",
+	"description":"These chrysalimon are annoying. Kill'em and you will get something nice.",   
+	"recipent":0,   
+	"requiredLevel":0,
+	"reward":  
+	{    
+		"exp":400.0, 
+		"money":0.0,  
+		"items":[{"id":2,"amount":1}]
+	},
+	"task":
+	{    
+		"talkTo":[], 
+		"items":[],   
+		"kills":[{"id":0,"amount":10,"playerCurrent":0},{"id":27,"amount":3,"playerCurrent":0}]
+	}
+}
+

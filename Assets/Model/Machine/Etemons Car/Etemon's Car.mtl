@@ -1,0 +1,51 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl Material_01_-_Default
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Etemon's Car (Monochromon).png
+
+newmtl Material_EtemonCar_01
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.223530 0.223530 0.223530
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Etemon's Car.png
+
+newmtl Material_EtemonCar_02
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.718431 0.718431 0.718431
+Ks 0.227451 0.227451 0.227451
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Etemon's Car 2.png
+
+newmtl Material_EtemonCar_03
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.223530 0.223530 0.223530
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material_EtemonCar_04
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.243137 0.243137 0.243137
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Etemon's Car (Harness).png

@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 388387803550e764d94f8ee1a65ba41f
+timeCreated: 1504742882
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: //RootNode
+    100004: ChrysalimonRed
+    100006: lower-body
+    100008: tale
+    100010: uper-body
+    100012: uper-body_001
+    100014: uper-body_002
+    100016: uper-body_003
+    100018: uper-body_004
+    100020: uper-body_005
+    100022: uper-body_006
+    100024: uper-body_007
+    100026: uper-body_008
+    100028: uper-body_009
+    100030: uper-body_010
+    100032: uper-body_011
+    100034: uper-body_012
+    100036: uper-body_015
+    100038: uper-body_016
+    100040: uper-body_017
+    100042: uper-body_018
+    100044: uper-body_019
+    100046: uper-body_020
+    400000: Armature
+    400002: //RootNode
+    400004: ChrysalimonRed
+    400006: lower-body
+    400008: tale
+    400010: uper-body
+    400012: uper-body_001
+    400014: uper-body_002
+    400016: uper-body_003
+    400018: uper-body_004
+    400020: uper-body_005
+    400022: uper-body_006
+    400024: uper-body_007
+    400026: uper-body_008
+    400028: uper-body_009
+    400030: uper-body_010
+    400032: uper-body_011
+    400034: uper-body_012
+    400036: uper-body_015
+    400038: uper-body_016
+    400040: uper-body_017
+    400042: uper-body_018
+    400044: uper-body_019
+    400046: uper-body_020
+    2100000: None_Chrysalimon_png__ChrysalimonRed_png
+    4300000: ChrysalimonRed
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: ChrysalimonRed
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

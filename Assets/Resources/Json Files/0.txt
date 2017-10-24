@@ -1,0 +1,25 @@
+{
+	"id":0,
+	"user":
+	{
+		"userName":"admin2",
+		"passWord":"123"
+	},
+	"player":
+	{
+		"id":0,
+		"name":"SkywindPro",
+		"avatarID":0,
+		"level":1,
+		"experience":10.0,
+		"digimon":
+		{
+			"id":0,
+			"name":"Agumon",
+			"avatarID":0,
+			"level":1,
+			"experience":1.0
+		}
+	}
+	
+}

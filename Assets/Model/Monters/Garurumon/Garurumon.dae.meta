@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 5e7e7dc993bcf3c489e2d9dc8e553daf
+timeCreated: 1504114178
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: chest
+    100004: foot.L
+    100006: foot.L.001
+    100008: foot.L.002
+    100010: foot.L.003
+    100012: foot.R
+    100014: foot.R.001
+    100016: foot.R.002
+    100018: foot.R.003
+    100020: //RootNode
+    100022: Garurumon
+    100024: head
+    100026: heel.02.L
+    100028: heel.02.R
+    100030: heel.L
+    100032: heel.R
+    100034: hips
+    100036: hips.tail001
+    100038: hips.tail002
+    100040: hips.tail003
+    100042: Lamp
+    100044: metarig
+    100046: neck
+    100048: neck.mouth
+    100050: shin.L
+    100052: shin.R
+    100054: shoulder.L
+    100056: shoulder.L.001
+    100058: shoulder.L.002
+    100060: shoulder.L.003
+    100062: shoulder.L.004
+    100064: shoulder.L.005
+    100066: shoulder.L.006
+    100068: shoulder.L.007
+    100070: shoulder.L.008
+    100072: shoulder.R
+    100074: shoulder.R.001
+    100076: shoulder.R.002
+    100078: shoulder.R.003
+    100080: shoulder.R.004
+    100082: shoulder.R.005
+    100084: shoulder.R.006
+    100086: shoulder.R.007
+    100088: spine
+    100090: thigh.L
+    100092: thigh.R
+    100094: toe.L
+    100096: toe.R
+    400000: Camera
+    400002: chest
+    400004: foot.L
+    400006: foot.L.001
+    400008: foot.L.002
+    400010: foot.L.003
+    400012: foot.R
+    400014: foot.R.001
+    400016: foot.R.002
+    400018: foot.R.003
+    400020: //RootNode
+    400022: Garurumon
+    400024: head
+    400026: heel.02.L
+    400028: heel.02.R
+    400030: heel.L
+    400032: heel.R
+    400034: hips
+    400036: hips.tail001
+    400038: hips.tail002
+    400040: hips.tail003
+    400042: Lamp
+    400044: metarig
+    400046: neck
+    400048: neck.mouth
+    400050: shin.L
+    400052: shin.R
+    400054: shoulder.L
+    400056: shoulder.L.001
+    400058: shoulder.L.002
+    400060: shoulder.L.003
+    400062: shoulder.L.004
+    400064: shoulder.L.005
+    400066: shoulder.L.006
+    400068: shoulder.L.007
+    400070: shoulder.L.008
+    400072: shoulder.R
+    400074: shoulder.R.001
+    400076: shoulder.R.002
+    400078: shoulder.R.003
+    400080: shoulder.R.004
+    400082: shoulder.R.005
+    400084: shoulder.R.006
+    400086: shoulder.R.007
+    400088: spine
+    400090: thigh.L
+    400092: thigh.R
+    400094: toe.L
+    400096: toe.R
+    2000000: Camera
+    2100000: None_Garurumon_png
+    4300000: Garurumon
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Garurumon
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

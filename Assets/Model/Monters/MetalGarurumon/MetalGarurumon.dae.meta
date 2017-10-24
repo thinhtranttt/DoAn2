@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 67acea31824cdec46992967c49e24c39
+timeCreated: 1504167613
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: chest
+    100004: chest.wing.L.001
+    100006: chest.wing.L.002
+    100008: chest.wing.R.001
+    100010: chest.wing.R.002
+    100012: f_index.01.L
+    100014: f_index.01.R
+    100016: f_index.02.L
+    100018: f_index.02.R
+    100020: f_middle.01.L
+    100022: f_middle.01.R
+    100024: f_middle.02.L
+    100026: f_middle.02.R
+    100028: f_ring.01.L
+    100030: f_ring.01.R
+    100032: f_ring.02.L
+    100034: f_ring.02.R
+    100036: foot.L
+    100038: foot.L.001
+    100040: foot.L.002
+    100042: foot.R
+    100044: foot.R.001
+    100046: foot.R.002
+    100048: forearm.L
+    100050: forearm.R
+    100052: hand.L
+    100054: hand.R
+    100056: head
+    100058: heel.02.L
+    100060: heel.02.R
+    100062: heel.L
+    100064: heel.R
+    100066: hips
+    100068: hips.tail
+    100070: Lamp
+    100072: //RootNode
+    100074: MetalGarurumon
+    100076: metarig
+    100078: neck
+    100080: neck.mouth
+    100082: palm.01.L
+    100084: palm.01.R
+    100086: palm.02.L
+    100088: palm.02.R
+    100090: palm.03.L
+    100092: palm.03.R
+    100094: shin.L
+    100096: shin.R
+    100098: shoulder.L
+    100100: shoulder.R
+    100102: spine
+    100104: thigh.L
+    100106: thigh.R
+    100108: toe.L
+    100110: toe.R
+    100112: upper_arm.L
+    100114: upper_arm.R
+    400000: Camera
+    400002: chest
+    400004: chest.wing.L.001
+    400006: chest.wing.L.002
+    400008: chest.wing.R.001
+    400010: chest.wing.R.002
+    400012: f_index.01.L
+    400014: f_index.01.R
+    400016: f_index.02.L
+    400018: f_index.02.R
+    400020: f_middle.01.L
+    400022: f_middle.01.R
+    400024: f_middle.02.L
+    400026: f_middle.02.R
+    400028: f_ring.01.L
+    400030: f_ring.01.R
+    400032: f_ring.02.L
+    400034: f_ring.02.R
+    400036: foot.L
+    400038: foot.L.001
+    400040: foot.L.002
+    400042: foot.R
+    400044: foot.R.001
+    400046: foot.R.002
+    400048: forearm.L
+    400050: forearm.R
+    400052: hand.L
+    400054: hand.R
+    400056: head
+    400058: heel.02.L
+    400060: heel.02.R
+    400062: heel.L
+    400064: heel.R
+    400066: hips
+    400068: hips.tail
+    400070: Lamp
+    400072: MetalGarurumon
+    400074: //RootNode
+    400076: metarig
+    400078: neck
+    400080: neck.mouth
+    400082: palm.01.L
+    400084: palm.01.R
+    400086: palm.02.L
+    400088: palm.02.R
+    400090: palm.03.L
+    400092: palm.03.R
+    400094: shin.L
+    400096: shin.R
+    400098: shoulder.L
+    400100: shoulder.R
+    400102: spine
+    400104: thigh.L
+    400106: thigh.R
+    400108: toe.L
+    400110: toe.R
+    400112: upper_arm.L
+    400114: upper_arm.R
+    2000000: Camera
+    2100000: None_MetalGarurumon_png
+    4300000: MetalGarurumon
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: MetalGarurumon
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

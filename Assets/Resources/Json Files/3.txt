@@ -1,0 +1,1 @@
+{"id":3,"user":{"userName":"baba","passWord":"123"},"player":{"id":0,"name":"","avatarID":0,"level":1,"experience":0.0,"digimon":{"id":0,"name":"","avatarID":0,"level":1,"experience":0.0}}}
