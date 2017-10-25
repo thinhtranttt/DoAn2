@@ -40,7 +40,7 @@ public class CreepController : MonoBehaviour {
     {       
         if (other.gameObject.tag == "getHit")
         {
-            //Debug.Log("come in triger");
+            Debug.Log("come in triger");
             if (ControlObjectMain.attacking)
             {
 				UpdateHPCreep ();
