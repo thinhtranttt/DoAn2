@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is test A
 this is update
+=======
+this is test B
+>>>>>>> 09213d469a2933ec09cd7aa9a270b06d144e806c
