@@ -488,7 +488,11 @@ public class PlayerInventory : MonterFollow
     {
         if (other.tag == "BeAttacked")
         {
-            currentHealth -= 5;
+            if (CreepController.instance.dame - currentArmor <= 0)
+                currentHealth -= 1;
+            else
+                currentHealth = currentHealth - (CreepController.instance.dame - currentArmor);
+            
             UpdateHPBar();
         }
     }

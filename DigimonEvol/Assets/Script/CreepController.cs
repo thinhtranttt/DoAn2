@@ -24,7 +24,7 @@ public class CreepController : MonoBehaviour {
 	private Image hpImg;
 	public float maxHp = 120;
 	public float curHp = 120;
-	public float dame = 0;
+	public float dame = 10;
 	public float armor = 0;
 
     [Header("Paticle System")]
@@ -71,7 +71,10 @@ public class CreepController : MonoBehaviour {
 
 	void UpdateHPCreep()
 	{
-		curHp -= Digimon.transform.GetComponent<PlayerInventory>().currentDamage;
+        if (Digimon.transform.GetComponent<PlayerInventory>().currentDamage - armor <= 0)
+            curHp -= 1;
+        else
+		    curHp = curHp - Digimon.transform.GetComponent<PlayerInventory>().currentDamage + armor;
 		float fillAmount = curHp / maxHp;
 		hpImg.fillAmount = fillAmount;
 	}
